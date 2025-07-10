@@ -4,5 +4,6 @@
 
 layout: home
 ---
-
-#element { background: url(asset_path("dsrc_fullart.jpg")); }
+header {
+  background-image: url('/dsrc_fullart.jpg')
+}
