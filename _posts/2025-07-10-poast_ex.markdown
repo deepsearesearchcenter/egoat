@@ -1,9 +1,0 @@
----
-layout: post
-title:  "example poast!"
----
-<body class="theme-base-0d">
-  ...he came from somewhere back in his long ago<br>
-  she had a place in his life<br>
-  he never made her think twice<br>
-</body>
