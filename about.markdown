@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+egoat is a live and real human being.
+this blog is for the dissemination of real egoat opinions held by egoat in a form roughly equal to .txt files being feverishly jammed in your inbox.
+egoat is also known as "xander garretson", "arc angle", "angel page", "electronic goat", "zallaas zang-zeyun", "coffee", "ice wisard", "junebug_ky", "2corvettes", "big joe slim", "male to gamer", or just xander.
+he can be found losing magic games in oakland california or on the excalibur server of final fantasy 14.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+[bsky](https://bsky.app/profile/egoat.blog)
+[tumblr](https://www.tumblr.com/blog/egoat)
+discord: @egoat
