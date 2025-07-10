@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+#element { background: url(asset_path("dsrc_fullart.jpg")); }
