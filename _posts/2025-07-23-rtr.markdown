@@ -1,1 +1,24 @@
-
+---
+layout: post
+title:  "DND - intro"
+---
+<body>
+  <p>
+  "RETURN TO RAVNICA" <br>
+  Ravnica, the city of guilds, is a massive, sprawling cityscape, always alive with industry, magic, scheming, and interguild conflict. Six months prior, the city was rocked by a Phyrexian invasion that decimated New Prahv and the guilds that defended the city. Since then, Ravnicans have been working to pick up the pieces, with the guildless finding new solidarity and organizing the rebuilding effort for themselves. They have also had to adjust to Ravnica's new status as a multiplanar gateway, as omenpaths have appeared on the plane, bringing in new life from other planes, who have been thankfully less hostile than the Phyrexian invaders. <br>
+  You have lived in Ravnica for some time, one participant among many in the bustle and chaos of the city. Perhaps you were raised guildless and stayed that way; or applied your skills at a guild, or multiple, or were a member of one guild and chose to part ways. Whatever your circumstances, you have found your way to living in the heart of Ravnica, the Tenth District, ground zero for the recent invasion and the place where everything important in Ravnica transpires. Specifically, you have found yourself in Precinct Six, known for its metalworking industry and hardscrabble denizens. <br>
+  Unusual rumors have circulated the Precinct; an angel was spotted somewhere in the Precinct, and wasn't seen to leave either. Angels are a rare, though not impossible sight on Ravnica. They generally come from the Boros Legion, descendants of the archangel Razia, former parun of the Boros, and are said to have been made in her image; "firemane angels", fierce warriors that appear on Ravnica to defend the weak from injustice. For such an angel to appear is a blessing, but for one to not leave is a curiosity. <br>
+  This curiosity has been noticed by the Ravnican Agency of Magicological Investigations, or R.A.M.I., a new law enforcement group working independent of the usual lawkeepers of the Azorius Senate, Boros Legion, or Orzhov Syndicate. Though small in number, they claim to represent and defend the guildless, and fight against crimes that the guilds have no interest in. <br>
+  A notice has been posted by R.A.M.I, claiming to want to gather a community-led group of volunteers -- those with "certain skill sets" -- to investigate rumors of the angel in the Sixth Precinct. A reward is promised for participation and completion of the case. This is a valuable opportunity, not only to collect the monetary reward, but perhaps also reputation, as such a task would prove yourself in the eyes of this R.A.M.I. and in the eyes of any interested guild, even one you may already be a part of. <br>
+<br>
+CHARACTER CREATION <br>
+  Make a third-level player character that is native to the plane of Ravnica; anything goes. Refer to the Character Creation section of the 2024 Player's Handbook here; <https://5e.tools/book.html#xphb,2>. Note that your background will provide an ability score modifier, not your race, and that previous backgrounds, like those in Guildmaster's Guide to Ravnica, don't use this system; either use a background from 5.5e or the custom background to "adapt" any of your choosing. <br>
+  You can also use the GGR character creation section as a guide; <https://5e.tools/book.html#ggr,1>. Keep in mind making your character a member of a particular guild is not necessary, though this has a number of suggestions for how to do so. <br>
+  In terms of race, the primary races on Ravnica include humans, elves, vedalken, merfolk, goblins, Simic hybrids, minotaurs, loxodon, and centaurs (all are in GGR), but Ravnica is diverse enough to include at least everything in the Player's Handbook and beyond. You can use the multiplanar gateway as an excuse to include any race if necessary, though most races already appear on Ravnica naturally, just uncommonly (i.e. tieflings, aasimar, goliaths). <br>
+  When determining ability scores, use the point buy system. <https://chicken-dinner.com/5e/5e-point-buy.html> (Keep in mind to add the bonuses from background after.) <br>
+  Feel free to use any UAs written for 5.5e to supplement subclass options. <br>
+<br>
+estimated date: <br>
+Thursday, August 7th, 2025 12:00 PST <br>
+</p>
+</body>
