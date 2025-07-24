@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DND - intro"
+title:  "DND - return to ravnica"
 ---
 <body>
   <p>
